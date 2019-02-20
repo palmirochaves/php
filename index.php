@@ -1,4 +1,4 @@
 <?php
-echo "Iniciando <strong>php</strong>";
+echo "Iniciando alterando<strong>php</strong>";
 
 ?>
